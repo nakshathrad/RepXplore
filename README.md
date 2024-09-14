@@ -21,7 +21,8 @@ To set up **RepXplore** locally on your machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/cra2003/Rep.git
+   git clone https://github.com/nakshathrad/your-repository.git
+
    ```
    
 2. **Navigate to the Project Directory**
